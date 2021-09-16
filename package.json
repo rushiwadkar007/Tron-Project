@@ -1,0 +1,24 @@
+{
+  "name": "tron_project",
+  "version": "1.0.0",
+  "description": "This is a project to implement Tron Blockchain's TRC-721 NFT standard for our own usecase. This repository tries to implement mintable token functionalities of TRC-721",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rushiwadkar007/Tron-Project.git"
+  },
+  "author": "Rushikesh Wadkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushiwadkar007/Tron-Project/issues"
+  },
+  "homepage": "https://github.com/rushiwadkar007/Tron-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "solc": "^0.8.7-fixed"
+  }
+}
